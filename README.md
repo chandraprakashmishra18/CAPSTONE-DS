@@ -214,28 +214,3 @@ If you like this project:
 + 🍴 Fork it
 + 🧠 Use it in your viva
 ```
-
----
-
-# 💡 Bonus (To Impress Examiner)
-
-Add these lines verbally:
-
-* “This system mimics LinkedIn graph traversal”
-* “BFS guarantees shortest path in unweighted graphs”
-* “Recommendation system uses mutual connections ranking”
-
----
-
-# 🚀 Want Next Level?
-
-I can upgrade this further into:
-
-* 🔥 **Live animated UI (React + Graph Visualization)**
-* 📊 **Interactive dashboard**
-* 🎥 **Screen recording demo for submission**
-* 📄 **Final PDF report (college format)**
-
-Just tell me 👍
-
-[1]: https://github.com/dennislamcv1/DS0720ENFeb2020?utm_source=chatgpt.com "dennislamcv1/DS0720ENFeb2020: Data Science and ..."
