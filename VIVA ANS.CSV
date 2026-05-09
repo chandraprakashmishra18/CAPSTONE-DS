@@ -1,0 +1,9 @@
+Question,Answer
+Why adjacency list?,Space efficient for sparse graphs
+Why BFS for shortest path?,Finds minimum edges path
+DFS vs BFS?,DFS deep, BFS level-wise
+Why hashing for profiles?,Fast lookup O(1)
+Recommendation logic?,Based on mutual connections
+Complexity BFS?,O(V+E)
+Real-world use?,Social media, LinkedIn
+Scalability issue?,Graph grows large
